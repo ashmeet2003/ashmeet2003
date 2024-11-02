@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Socio-X](https://sociox-frontend.onrender.com/)
 
-- 🌱 I’m currently learning **Kafka**
+- 🌱 I’m currently learning **Go-lang**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashmeet2003/ashmeet2003](https://github.com/ashmeet2003/ashmeet2003)
 
